@@ -1,0 +1,33 @@
+/* font-family: 'Crimson Text', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Marcellus', serif; */
+html {
+  font-size: 20px
+}
+body {
+  width: 700px;
+  margin: 30px auto;
+  background-color: beige;
+  font-family: 'Crimson Text', serif;
+}
+
+h1 {
+  font-family: 'Marcellus', serif;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Dosis', sans-serif;
+  font-style: italic;
+}
+h3 {
+  font-size: 1.5rem;
+  font-family: 'Dosis', sans-serif;
+}
+
+a {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+}
