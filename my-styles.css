@@ -7,27 +7,34 @@ html {
 body {
   width: 700px;
   margin: 30px auto;
-  background-color: beige;
   font-family: 'Crimson Text', serif;
+  background-color: beige;
 }
-
+nav {
+background-color: #fadadd;
+}
 h1 {
   font-family: 'Marcellus', serif;
   font-size: 3rem;
+  background-color: #FFE5B4;
 }
 
 h2 {
   font-size: 2rem;
   font-family: 'Dosis', sans-serif;
   font-style: italic;
+  background-color: #ffffbf;
 }
 h3 {
   font-size: 1.5rem;
   font-family: 'Dosis', sans-serif;
+  background-color: #ffffbf;
 }
-
 a {
   font-style: italic;
   font-weight: bold;
   text-decoration: none;
+}
+ul {
+  list-style: none;
 }
