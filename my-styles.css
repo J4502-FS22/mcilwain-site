@@ -125,7 +125,7 @@ footer{
   nav ul {
     display: flex;
     flex-direction: row;
-    flex-wrap; wrap;
+    flex-wrap: wrap;
   }
   nav li {
     width: 50%
