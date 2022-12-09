@@ -26,7 +26,7 @@ html {
 body {
   margin: 0px;
   font-family: 'Crimson Text', serif;
-  background-color: beige;
+  background-color: #C66E4E;
 }
 main {
   width: 90%;
@@ -42,7 +42,7 @@ img {
 }
 nav {
   color: #E3AD16;
-  background-color: #fadadd;
+  background-color: #F6F0BC;
   padding: 0;
   display: block;
   margin: 0;
@@ -51,7 +51,7 @@ nav {
 h1 {
   font-family: 'Marcellus', serif;
   font-size: 3rem;
-  background-color: #FFE5B4;
+  background-color:	#FFD580;
   margin: 0;
 }
 
@@ -59,13 +59,11 @@ h2 {
   font-size: 2rem;
   font-family: 'Dosis', sans-serif;
   font-style: italic;
-  background-color: #ffffbf;
   margin: 0;
 }
 h3 {
   font-size: 1.5rem;
   font-family: 'Dosis', sans-serif;
-  background-color: #ffffbf;
   margin: 0;
 }
 
@@ -95,12 +93,12 @@ nav li, nav li a {
   align-items: center;
 }
 .active {
-  background-color: beige;
+  background-color: #FFF;
   color: black;
   padding: 1rem;
 }
 footer{
-  background: #fadadd;
+  background: #F6F0BC;
   color: black;
   width: 100%;
   margin: 0;
